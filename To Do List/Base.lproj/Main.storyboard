@@ -99,7 +99,7 @@
                                 </connections>
                             </textField>
                             <button opaque="NO" contentMode="scaleAspectFill" misplaced="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="kAx-wv-Bm9">
-                                <rect key="frame" x="0.0" y="123" width="375" height="74"/>
+                                <rect key="frame" x="0.0" y="218" width="375" height="74"/>
                                 <state key="normal" title="Add" image="ADD"/>
                                 <connections>
                                     <action selector="addItem:" destination="8rJ-Kc-sve" eventType="touchUpInside" id="Ell-0k-MDe"/>

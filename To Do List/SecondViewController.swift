@@ -39,6 +39,7 @@ class SecondViewController: UIViewController, UITextFieldDelegate {
             // hide keyboard
             self.view.endEditing(true)
         } else {
+            //TEST TEST
             print("No Input")
         }
     }
