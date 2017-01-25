@@ -57,7 +57,7 @@ class SecondViewController: UIViewController, UITextFieldDelegate {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        itemInput.becomeFirstResponder()
+        
         // Do any additional setup after loading the view, typically from a nib.
         
         updateList()
@@ -70,6 +70,7 @@ class SecondViewController: UIViewController, UITextFieldDelegate {
 
     override func viewDidAppear(_ animated: Bool) {
         print("view appeared...")
+        itemInput.becomeFirstResponder()
         updateList()
     }
     
