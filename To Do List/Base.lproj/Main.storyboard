@@ -98,8 +98,8 @@
                                     <outlet property="delegate" destination="8rJ-Kc-sve" id="x3T-Ni-wKO"/>
                                 </connections>
                             </textField>
-                            <button opaque="NO" contentMode="scaleAspectFill" misplaced="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="kAx-wv-Bm9">
-                                <rect key="frame" x="0.0" y="395" width="375" height="74"/>
+                            <button opaque="NO" contentMode="scaleToFill" misplaced="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="kAx-wv-Bm9">
+                                <rect key="frame" x="-0.031185997198406312" y="308.7450226982055" width="375.00000000000011" height="50.000000000000114"/>
                                 <state key="normal" title="Add" image="ADD"/>
                                 <connections>
                                     <action selector="addItem:" destination="8rJ-Kc-sve" eventType="touchUpInside" id="Ell-0k-MDe"/>
@@ -127,7 +127,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="4Nw-L8-lE0" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-1" y="917"/>
+            <point key="canvasLocation" x="-2.8125" y="916.37323943661977"/>
         </scene>
         <!--Tab Bar Controller-->
         <scene sceneID="yl2-sM-qoP">
